@@ -1,0 +1,27 @@
+_repo: South-Africa-and-the-Transvaal-War-Vol.-4--of-6---13-From-Lord-Roberts-Entry-into-the-Free-St__38768
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Creswicke, Louis
+    gutenberg_agent_id: '25997'
+    url: http://www.gutenberg.org/2009/agents/25997
+description: ''
+gutenberg_bookshelf: Boer War
+gutenberg_issued: '2012-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38768'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South African War, 1899-1902'
+- !lcsh 'Transvaal (South Africa) -- History'
+- !lcc 'DT'
+title: "South Africa and the Transvaal War, Vol. 4 (of 8)\r\nFrom Lord Roberts' Entry\
+  \ into the Free State to the Battle of Karree"
+url: http://www.gutenberg.org/ebooks/38768
